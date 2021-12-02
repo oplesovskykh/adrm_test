@@ -1,5 +1,5 @@
 import pytest
 
-def test_1():
+def test_method_WPL30_T35():
     print("Hello World!")
     assert True
